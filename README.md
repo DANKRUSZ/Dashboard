@@ -1,4 +1,4 @@
-# Part Three - Cultural Assessment Dashboard
+# Cultural Assessment Dashboard
 
 ## Overview
 A working dashbaord in Next.js that shows survey results and allows filtering by demographic groups.
